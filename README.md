@@ -3,3 +3,4 @@
 *[Exercise 2 - HTML/CSS/PHP](https://drive.google.com/drive/folders/1nwFWFdHrROfqJWaA5GKG_Fx1AY6fatK0?usp=drive_link)
 *[Assignment 1 - IF STATEMENT](https://drive.google.com/drive/folders/1qVBJualA5lEltXbooamBuPuD5Gx2O1qU?usp=drive_link)
 *[Exercise 3 - GET Method](https://drive.google.com/drive/folders/13QqmzNoc6c4LaA77xTDKcWFVzn8OaTzM?usp=drive_link)
+*[Exercise 3 - POST Method](https://drive.google.com/drive/folders/13SGYK89nBamn3ZtByxDLS8OAzrCnHpd3?usp=drive_link)
